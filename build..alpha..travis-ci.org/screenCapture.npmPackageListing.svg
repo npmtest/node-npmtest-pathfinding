@@ -1,145 +1,145 @@
 <svg height="2270" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2270" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 13:42:36 +0000  1486131 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 13:42:36 +0000     9068 bytes  README.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 13:42:36 +0000      109 bytes  TODO</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 13:42:36 +0000     1895 bytes  benchmark/benchmark.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 13:42:36 +0000   263209 bytes  benchmark/map/64room_000.map</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 13:42:36 +0000     2538 bytes  benchmark/map/arena.map</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 13:42:36 +0000    37871 bytes  benchmark/map/lak304d.map</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 13:42:36 +0000   263209 bytes  benchmark/map/losttemple.map</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 13:42:36 +0000     1821 bytes  benchmark/parse_map.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 13:42:36 +0000     1102 bytes  benchmark/parse_scen.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 13:42:36 +0000   124422 bytes  benchmark/scen/64room_000.map.scen</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 13:42:36 +0000     7430 bytes  benchmark/scen/arena.map.scen</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 13:42:36 +0000    42195 bytes  benchmark/scen/lak304d.map.scen</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 13:42:36 +0000    77302 bytes  benchmark/scen/losttemple.map.scen</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 13:42:36 +0000      263 bytes  benchmark/test_cases.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 13:42:36 +0000      948 bytes  docs/contributor-guide/authors.md</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 13:42:36 +0000      225 bytes  docs/contributor-guide/contributing.md</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 13:42:36 +0000        0 bytes  docs/contributor-guide/developing.md</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 13:42:36 +0000      383 bytes  docs/custom.css</tspan>
-<tspan x="10" y="330"> 19.  2017-04-21 13:42:36 +0000      547 bytes  docs/index.md</tspan>
-<tspan x="10" y="346"> 20.  2017-04-21 13:42:36 +0000     1696 bytes  docs/user-guide/diagonal-movement.md</tspan>
-<tspan x="10" y="362"> 21.  2017-04-21 13:42:36 +0000        0 bytes  docs/user-guide/faq.md</tspan>
-<tspan x="10" y="378"> 22.  2017-04-21 13:42:36 +0000     1282 bytes  docs/user-guide/getting-started.md</tspan>
-<tspan x="10" y="394"> 23.  2017-04-21 13:42:36 +0000     1214 bytes  docs/user-guide/images/5x7EmptyGrid.png</tspan>
-<tspan x="10" y="410"> 24.  2017-04-21 13:42:36 +0000     1282 bytes  docs/user-guide/images/5x7GridWithObstacles.png</tspan>
-<tspan x="10" y="426"> 25.  2017-04-21 13:42:36 +0000     3143 bytes  docs/user-guide/images/5x7GridWithObstaclesAndPa\</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 13:43:39 +0000  1486131 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 13:43:39 +0000     9068 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 13:43:39 +0000      109 bytes  TODO</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 13:43:39 +0000     1895 bytes  benchmark/benchmark.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 13:43:39 +0000   263209 bytes  benchmark/map/64room_000.map</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 13:43:39 +0000     2538 bytes  benchmark/map/arena.map</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 13:43:39 +0000    37871 bytes  benchmark/map/lak304d.map</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 13:43:39 +0000   263209 bytes  benchmark/map/losttemple.map</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 13:43:39 +0000     1821 bytes  benchmark/parse_map.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 13:43:39 +0000     1102 bytes  benchmark/parse_scen.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 13:43:39 +0000   124422 bytes  benchmark/scen/64room_000.map.scen</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 13:43:39 +0000     7430 bytes  benchmark/scen/arena.map.scen</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 13:43:39 +0000    42195 bytes  benchmark/scen/lak304d.map.scen</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 13:43:39 +0000    77302 bytes  benchmark/scen/losttemple.map.scen</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 13:43:39 +0000      263 bytes  benchmark/test_cases.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 13:43:39 +0000      948 bytes  docs/contributor-guide/authors.md</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 13:43:39 +0000      225 bytes  docs/contributor-guide/contributing.md</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 13:43:39 +0000        0 bytes  docs/contributor-guide/developing.md</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 13:43:39 +0000      383 bytes  docs/custom.css</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 13:43:39 +0000      547 bytes  docs/index.md</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 13:43:39 +0000     1696 bytes  docs/user-guide/diagonal-movement.md</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 13:43:39 +0000        0 bytes  docs/user-guide/faq.md</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 13:43:39 +0000     1282 bytes  docs/user-guide/getting-started.md</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 13:43:39 +0000     1214 bytes  docs/user-guide/images/5x7EmptyGrid.png</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 13:43:39 +0000     1282 bytes  docs/user-guide/images/5x7GridWithObstacles.png</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 13:43:39 +0000     3143 bytes  docs/user-guide/images/5x7GridWithObstaclesAndPa\</tspan>
 <tspan x="10" y="442">th.png</tspan>
-<tspan x="10" y="458"> 26.  2017-04-21 13:42:36 +0000     2524 bytes  docs/user-guide/images/5x7GridWithPath.png</tspan>
-<tspan x="10" y="474"> 27.  2017-04-21 13:42:36 +0000     2423 bytes  docs/user-guide/images/AllMapsWithAPath.png</tspan>
-<tspan x="10" y="490"> 28.  2017-04-21 13:42:36 +0000     2070 bytes  docs/user-guide/images/AllMapsWithStraightPaths.\</tspan>
+<tspan x="10" y="458"> 26.  2017-04-21 13:43:39 +0000     2524 bytes  docs/user-guide/images/5x7GridWithPath.png</tspan>
+<tspan x="10" y="474"> 27.  2017-04-21 13:43:39 +0000     2423 bytes  docs/user-guide/images/AllMapsWithAPath.png</tspan>
+<tspan x="10" y="490"> 28.  2017-04-21 13:43:39 +0000     2070 bytes  docs/user-guide/images/AllMapsWithStraightPaths.\</tspan>
 <tspan x="10" y="506">png</tspan>
-<tspan x="10" y="522"> 29.  2017-04-21 13:42:36 +0000     1683 bytes  docs/user-guide/images/DiagonalMaps.png</tspan>
-<tspan x="10" y="538"> 30.  2017-04-21 13:42:36 +0000     2017 bytes  docs/user-guide/images/DiagonalMovementDisabled.\</tspan>
+<tspan x="10" y="522"> 29.  2017-04-21 13:43:39 +0000     1683 bytes  docs/user-guide/images/DiagonalMaps.png</tspan>
+<tspan x="10" y="538"> 30.  2017-04-21 13:43:39 +0000     2017 bytes  docs/user-guide/images/DiagonalMovementDisabled.\</tspan>
 <tspan x="10" y="554">png</tspan>
-<tspan x="10" y="570"> 31.  2017-04-21 13:42:36 +0000     2409 bytes  docs/user-guide/images/DiagonalPathsForAtMostOne\</tspan>
+<tspan x="10" y="570"> 31.  2017-04-21 13:43:39 +0000     2409 bytes  docs/user-guide/images/DiagonalPathsForAtMostOne\</tspan>
 <tspan x="10" y="586">Obstacle.png</tspan>
-<tspan x="10" y="602"> 32.  2017-04-21 13:42:36 +0000     2594 bytes  docs/user-guide/images/DiagonalPathsForOnlyWhenN\</tspan>
+<tspan x="10" y="602"> 32.  2017-04-21 13:43:39 +0000     2594 bytes  docs/user-guide/images/DiagonalPathsForOnlyWhenN\</tspan>
 <tspan x="10" y="618">oObstacles.png</tspan>
-<tspan x="10" y="634"> 33.  2017-04-21 13:42:36 +0000    92751 bytes  docs/user-guide/images/images.svg</tspan>
-<tspan x="10" y="650"> 34.  2017-04-21 13:42:36 +0000     2728 bytes  docs/user-guide/installation.md</tspan>
-<tspan x="10" y="666"> 35.  2017-04-21 13:42:36 +0000     2067 bytes  docs/user-guide/introduction.md</tspan>
-<tspan x="10" y="682"> 36.  2017-04-21 13:42:36 +0000     1444 bytes  docs/user-guide/obstacles.md</tspan>
-<tspan x="10" y="698"> 37.  2017-04-21 13:42:36 +0000     3568 bytes  gulpfile.js</tspan>
-<tspan x="10" y="714"> 38.  2017-04-21 13:42:36 +0000       48 bytes  index.js</tspan>
-<tspan x="10" y="730"> 39.  2017-04-21 13:42:36 +0000      869 bytes  mkdocs.yml</tspan>
-<tspan x="10" y="746"> 40.  2017-04-21 13:42:36 +0000      904 bytes  package.json</tspan>
-<tspan x="10" y="762"> 41.  2017-04-21 13:42:36 +0000     1120 bytes  src/PathFinding.js</tspan>
-<tspan x="10" y="778"> 42.  2017-04-21 13:42:36 +0000      511 bytes  src/banner</tspan>
-<tspan x="10" y="794"> 43.  2017-04-21 13:42:36 +0000      154 bytes  src/core/DiagonalMovement.js</tspan>
-<tspan x="10" y="810"> 44.  2017-04-21 13:42:36 +0000     6666 bytes  src/core/Grid.js</tspan>
-<tspan x="10" y="826"> 45.  2017-04-21 13:42:36 +0000     1140 bytes  src/core/Heuristic.js</tspan>
-<tspan x="10" y="842"> 46.  2017-04-21 13:42:36 +0000      807 bytes  src/core/Node.js</tspan>
-<tspan x="10" y="858"> 47.  2017-04-21 13:42:36 +0000     6207 bytes  src/core/Util.js</tspan>
-<tspan x="10" y="874"> 48.  2017-04-21 13:42:36 +0000     4753 bytes  src/finders/AStarFinder.js</tspan>
-<tspan x="10" y="890"> 49.  2017-04-21 13:42:36 +0000      957 bytes  src/finders/BestFirstFinder.js</tspan>
-<tspan x="10" y="906"> 50.  2017-04-21 13:42:36 +0000     6860 bytes  src/finders/BiAStarFinder.js</tspan>
-<tspan x="10" y="922"> 51.  2017-04-21 13:42:36 +0000      993 bytes  src/finders/BiBestFirstFinder.js</tspan>
-<tspan x="10" y="938"> 52.  2017-04-21 13:42:36 +0000     3676 bytes  src/finders/BiBreadthFirstFinder.js</tspan>
-<tspan x="10" y="954"> 53.  2017-04-21 13:42:36 +0000      810 bytes  src/finders/BiDijkstraFinder.js</tspan>
-<tspan x="10" y="970"> 54.  2017-04-21 13:42:36 +0000     2562 bytes  src/finders/BreadthFirstFinder.js</tspan>
-<tspan x="10" y="986"> 55.  2017-04-21 13:42:36 +0000      775 bytes  src/finders/DijkstraFinder.js</tspan>
-<tspan x="10" y="1002"> 56.  2017-04-21 13:42:36 +0000     7236 bytes  src/finders/IDAStarFinder.js</tspan>
-<tspan x="10" y="1018"> 57.  2017-04-21 13:42:36 +0000     5030 bytes  src/finders/JPFAlwaysMoveDiagonally.js</tspan>
-<tspan x="10" y="1034"> 58.  2017-04-21 13:42:36 +0000     5503 bytes  src/finders/JPFMoveDiagonallyIfAtMostOneObstacle\</tspan>
+<tspan x="10" y="634"> 33.  2017-04-21 13:43:39 +0000    92751 bytes  docs/user-guide/images/images.svg</tspan>
+<tspan x="10" y="650"> 34.  2017-04-21 13:43:39 +0000     2728 bytes  docs/user-guide/installation.md</tspan>
+<tspan x="10" y="666"> 35.  2017-04-21 13:43:39 +0000     2067 bytes  docs/user-guide/introduction.md</tspan>
+<tspan x="10" y="682"> 36.  2017-04-21 13:43:39 +0000     1444 bytes  docs/user-guide/obstacles.md</tspan>
+<tspan x="10" y="698"> 37.  2017-04-21 13:43:39 +0000     3568 bytes  gulpfile.js</tspan>
+<tspan x="10" y="714"> 38.  2017-04-21 13:43:39 +0000       48 bytes  index.js</tspan>
+<tspan x="10" y="730"> 39.  2017-04-21 13:43:39 +0000      869 bytes  mkdocs.yml</tspan>
+<tspan x="10" y="746"> 40.  2017-04-21 13:43:39 +0000      904 bytes  package.json</tspan>
+<tspan x="10" y="762"> 41.  2017-04-21 13:43:39 +0000     1120 bytes  src/PathFinding.js</tspan>
+<tspan x="10" y="778"> 42.  2017-04-21 13:43:39 +0000      511 bytes  src/banner</tspan>
+<tspan x="10" y="794"> 43.  2017-04-21 13:43:39 +0000      154 bytes  src/core/DiagonalMovement.js</tspan>
+<tspan x="10" y="810"> 44.  2017-04-21 13:43:39 +0000     6666 bytes  src/core/Grid.js</tspan>
+<tspan x="10" y="826"> 45.  2017-04-21 13:43:39 +0000     1140 bytes  src/core/Heuristic.js</tspan>
+<tspan x="10" y="842"> 46.  2017-04-21 13:43:39 +0000      807 bytes  src/core/Node.js</tspan>
+<tspan x="10" y="858"> 47.  2017-04-21 13:43:39 +0000     6207 bytes  src/core/Util.js</tspan>
+<tspan x="10" y="874"> 48.  2017-04-21 13:43:39 +0000     4753 bytes  src/finders/AStarFinder.js</tspan>
+<tspan x="10" y="890"> 49.  2017-04-21 13:43:39 +0000      957 bytes  src/finders/BestFirstFinder.js</tspan>
+<tspan x="10" y="906"> 50.  2017-04-21 13:43:39 +0000     6860 bytes  src/finders/BiAStarFinder.js</tspan>
+<tspan x="10" y="922"> 51.  2017-04-21 13:43:39 +0000      993 bytes  src/finders/BiBestFirstFinder.js</tspan>
+<tspan x="10" y="938"> 52.  2017-04-21 13:43:39 +0000     3676 bytes  src/finders/BiBreadthFirstFinder.js</tspan>
+<tspan x="10" y="954"> 53.  2017-04-21 13:43:39 +0000      810 bytes  src/finders/BiDijkstraFinder.js</tspan>
+<tspan x="10" y="970"> 54.  2017-04-21 13:43:39 +0000     2562 bytes  src/finders/BreadthFirstFinder.js</tspan>
+<tspan x="10" y="986"> 55.  2017-04-21 13:43:39 +0000      775 bytes  src/finders/DijkstraFinder.js</tspan>
+<tspan x="10" y="1002"> 56.  2017-04-21 13:43:39 +0000     7236 bytes  src/finders/IDAStarFinder.js</tspan>
+<tspan x="10" y="1018"> 57.  2017-04-21 13:43:39 +0000     5030 bytes  src/finders/JPFAlwaysMoveDiagonally.js</tspan>
+<tspan x="10" y="1034"> 58.  2017-04-21 13:43:39 +0000     5503 bytes  src/finders/JPFMoveDiagonallyIfAtMostOneObstacle\</tspan>
 <tspan x="10" y="1050">.js</tspan>
-<tspan x="10" y="1066"> 59.  2017-04-21 13:42:36 +0000     6178 bytes  src/finders/JPFMoveDiagonallyIfNoObstacles.js</tspan>
-<tspan x="10" y="1082"> 60.  2017-04-21 13:42:36 +0000     3858 bytes  src/finders/JPFNeverMoveDiagonally.js</tspan>
-<tspan x="10" y="1098"> 61.  2017-04-21 13:42:36 +0000     1296 bytes  src/finders/JumpPointFinder.js</tspan>
-<tspan x="10" y="1114"> 62.  2017-04-21 13:42:36 +0000     3553 bytes  src/finders/JumpPointFinderBase.js</tspan>
-<tspan x="10" y="1130"> 63.  2017-04-21 13:42:36 +0000     5001 bytes  test/Grid.js</tspan>
-<tspan x="10" y="1146"> 64.  2017-04-21 13:42:36 +0000     3059 bytes  test/PathTest.js</tspan>
-<tspan x="10" y="1162"> 65.  2017-04-21 13:42:36 +0000     2580 bytes  test/PathTestScenarios.js</tspan>
-<tspan x="10" y="1178"> 66.  2017-04-21 13:42:36 +0000     1591 bytes  test/Util.js</tspan>
-<tspan x="10" y="1194"> 67.  2017-04-21 13:42:36 +0000      101 bytes  visual/Makefile</tspan>
-<tspan x="10" y="1210"> 68.  2017-04-21 13:42:36 +0000     2137 bytes  visual/css/style.css</tspan>
-<tspan x="10" y="1226"> 69.  2017-04-21 13:42:36 +0000      876 bytes  visual/doc/state-description.md</tspan>
-<tspan x="10" y="1242"> 70.  2017-04-21 13:42:36 +0000      727 bytes  visual/doc/state-diagram.gv</tspan>
-<tspan x="10" y="1258"> 71.  2017-04-21 13:42:36 +0000    49802 bytes  visual/doc/state-diagram.png</tspan>
-<tspan x="10" y="1274"> 72.  2017-04-21 13:42:36 +0000    11434 bytes  visual/index.html</tspan>
-<tspan x="10" y="1290"> 73.  2017-04-21 13:42:36 +0000    15143 bytes  visual/js/controller.js</tspan>
-<tspan x="10" y="1306"> 74.  2017-04-21 13:42:36 +0000      325 bytes  visual/js/main.js</tspan>
-<tspan x="10" y="1322"> 75.  2017-04-21 13:42:36 +0000     7939 bytes  visual/js/panel.js</tspan>
-<tspan x="10" y="1338"> 76.  2017-04-21 13:42:36 +0000    10637 bytes  visual/js/view.js</tspan>
-<tspan x="10" y="1354"> 77.  2017-04-21 13:42:36 +0000     7009 bytes  visual/lib/async.min.js</tspan>
-<tspan x="10" y="1370"> 78.  2017-04-21 13:42:36 +0000     8301 bytes  visual/lib/es5-shim.min.js</tspan>
-<tspan x="10" y="1386"> 79.  2017-04-21 13:42:36 +0000    94843 bytes  visual/lib/jquery-1.7.2.min.js</tspan>
-<tspan x="10" y="1402"> 80.  2017-04-21 13:42:36 +0000    17977 bytes  visual/lib/pathfinding-browser.min.js</tspan>
-<tspan x="10" y="1418"> 81.  2017-04-21 13:42:36 +0000    90656 bytes  visual/lib/raphael-min.js</tspan>
-<tspan x="10" y="1434"> 82.  2017-04-21 13:42:36 +0000     2913 bytes  visual/lib/state-machine.min.js</tspan>
-<tspan x="10" y="1450"> 83.  2017-04-21 13:42:36 +0000      180 bytes  visual/lib/themes/images/ui-bg_flat_0_aaaaaa_40x\</tspan>
+<tspan x="10" y="1066"> 59.  2017-04-21 13:43:39 +0000     6178 bytes  src/finders/JPFMoveDiagonallyIfNoObstacles.js</tspan>
+<tspan x="10" y="1082"> 60.  2017-04-21 13:43:39 +0000     3858 bytes  src/finders/JPFNeverMoveDiagonally.js</tspan>
+<tspan x="10" y="1098"> 61.  2017-04-21 13:43:39 +0000     1296 bytes  src/finders/JumpPointFinder.js</tspan>
+<tspan x="10" y="1114"> 62.  2017-04-21 13:43:39 +0000     3553 bytes  src/finders/JumpPointFinderBase.js</tspan>
+<tspan x="10" y="1130"> 63.  2017-04-21 13:43:39 +0000     5001 bytes  test/Grid.js</tspan>
+<tspan x="10" y="1146"> 64.  2017-04-21 13:43:39 +0000     3059 bytes  test/PathTest.js</tspan>
+<tspan x="10" y="1162"> 65.  2017-04-21 13:43:39 +0000     2580 bytes  test/PathTestScenarios.js</tspan>
+<tspan x="10" y="1178"> 66.  2017-04-21 13:43:39 +0000     1591 bytes  test/Util.js</tspan>
+<tspan x="10" y="1194"> 67.  2017-04-21 13:43:39 +0000      101 bytes  visual/Makefile</tspan>
+<tspan x="10" y="1210"> 68.  2017-04-21 13:43:39 +0000     2137 bytes  visual/css/style.css</tspan>
+<tspan x="10" y="1226"> 69.  2017-04-21 13:43:39 +0000      876 bytes  visual/doc/state-description.md</tspan>
+<tspan x="10" y="1242"> 70.  2017-04-21 13:43:39 +0000      727 bytes  visual/doc/state-diagram.gv</tspan>
+<tspan x="10" y="1258"> 71.  2017-04-21 13:43:39 +0000    49802 bytes  visual/doc/state-diagram.png</tspan>
+<tspan x="10" y="1274"> 72.  2017-04-21 13:43:39 +0000    11434 bytes  visual/index.html</tspan>
+<tspan x="10" y="1290"> 73.  2017-04-21 13:43:39 +0000    15143 bytes  visual/js/controller.js</tspan>
+<tspan x="10" y="1306"> 74.  2017-04-21 13:43:39 +0000      325 bytes  visual/js/main.js</tspan>
+<tspan x="10" y="1322"> 75.  2017-04-21 13:43:39 +0000     7939 bytes  visual/js/panel.js</tspan>
+<tspan x="10" y="1338"> 76.  2017-04-21 13:43:39 +0000    10637 bytes  visual/js/view.js</tspan>
+<tspan x="10" y="1354"> 77.  2017-04-21 13:43:39 +0000     7009 bytes  visual/lib/async.min.js</tspan>
+<tspan x="10" y="1370"> 78.  2017-04-21 13:43:39 +0000     8301 bytes  visual/lib/es5-shim.min.js</tspan>
+<tspan x="10" y="1386"> 79.  2017-04-21 13:43:39 +0000    94843 bytes  visual/lib/jquery-1.7.2.min.js</tspan>
+<tspan x="10" y="1402"> 80.  2017-04-21 13:43:39 +0000    17977 bytes  visual/lib/pathfinding-browser.min.js</tspan>
+<tspan x="10" y="1418"> 81.  2017-04-21 13:43:39 +0000    90656 bytes  visual/lib/raphael-min.js</tspan>
+<tspan x="10" y="1434"> 82.  2017-04-21 13:43:39 +0000     2913 bytes  visual/lib/state-machine.min.js</tspan>
+<tspan x="10" y="1450"> 83.  2017-04-21 13:43:39 +0000      180 bytes  visual/lib/themes/images/ui-bg_flat_0_aaaaaa_40x\</tspan>
 <tspan x="10" y="1466">100.png</tspan>
-<tspan x="10" y="1482"> 84.  2017-04-21 13:42:36 +0000      119 bytes  visual/lib/themes/images/ui-bg_glass_95_fef1ec_1\</tspan>
+<tspan x="10" y="1482"> 84.  2017-04-21 13:43:39 +0000      119 bytes  visual/lib/themes/images/ui-bg_glass_95_fef1ec_1\</tspan>
 <tspan x="10" y="1498">x400.png</tspan>
-<tspan x="10" y="1514"> 85.  2017-04-21 13:42:36 +0000     1968 bytes  visual/lib/themes/images/ui-bg_gloss-wave_16_121\</tspan>
+<tspan x="10" y="1514"> 85.  2017-04-21 13:43:39 +0000     1968 bytes  visual/lib/themes/images/ui-bg_gloss-wave_16_121\</tspan>
 <tspan x="10" y="1530">212_500x100.png</tspan>
-<tspan x="10" y="1546"> 86.  2017-04-21 13:42:36 +0000       95 bytes  visual/lib/themes/images/ui-bg_highlight-hard_15\</tspan>
+<tspan x="10" y="1546"> 86.  2017-04-21 13:43:39 +0000       95 bytes  visual/lib/themes/images/ui-bg_highlight-hard_15\</tspan>
 <tspan x="10" y="1562">_888888_1x100.png</tspan>
-<tspan x="10" y="1578"> 87.  2017-04-21 13:42:36 +0000      115 bytes  visual/lib/themes/images/ui-bg_highlight-hard_55\</tspan>
+<tspan x="10" y="1578"> 87.  2017-04-21 13:43:39 +0000      115 bytes  visual/lib/themes/images/ui-bg_highlight-hard_55\</tspan>
 <tspan x="10" y="1594">_555555_1x100.png</tspan>
-<tspan x="10" y="1610"> 88.  2017-04-21 13:42:36 +0000      145 bytes  visual/lib/themes/images/ui-bg_highlight-soft_35\</tspan>
+<tspan x="10" y="1610"> 88.  2017-04-21 13:43:39 +0000      145 bytes  visual/lib/themes/images/ui-bg_highlight-soft_35\</tspan>
 <tspan x="10" y="1626">_adadad_1x100.png</tspan>
-<tspan x="10" y="1642"> 89.  2017-04-21 13:42:36 +0000      106 bytes  visual/lib/themes/images/ui-bg_highlight-soft_60\</tspan>
+<tspan x="10" y="1642"> 89.  2017-04-21 13:43:39 +0000      106 bytes  visual/lib/themes/images/ui-bg_highlight-soft_60\</tspan>
 <tspan x="10" y="1658">_dddddd_1x100.png</tspan>
-<tspan x="10" y="1674"> 90.  2017-04-21 13:42:36 +0000      103 bytes  visual/lib/themes/images/ui-bg_inset-soft_15_121\</tspan>
+<tspan x="10" y="1674"> 90.  2017-04-21 13:43:39 +0000      103 bytes  visual/lib/themes/images/ui-bg_inset-soft_15_121\</tspan>
 <tspan x="10" y="1690">212_1x100.png</tspan>
-<tspan x="10" y="1706"> 91.  2017-04-21 13:42:36 +0000     4369 bytes  visual/lib/themes/images/ui-icons_666666_256x240\</tspan>
+<tspan x="10" y="1706"> 91.  2017-04-21 13:43:39 +0000     4369 bytes  visual/lib/themes/images/ui-icons_666666_256x240\</tspan>
 <tspan x="10" y="1722">.png</tspan>
-<tspan x="10" y="1738"> 92.  2017-04-21 13:42:36 +0000     4369 bytes  visual/lib/themes/images/ui-icons_aaaaaa_256x240\</tspan>
+<tspan x="10" y="1738"> 92.  2017-04-21 13:43:39 +0000     4369 bytes  visual/lib/themes/images/ui-icons_aaaaaa_256x240\</tspan>
 <tspan x="10" y="1754">.png</tspan>
-<tspan x="10" y="1770"> 93.  2017-04-21 13:42:36 +0000     5355 bytes  visual/lib/themes/images/ui-icons_bbbbbb_256x240\</tspan>
+<tspan x="10" y="1770"> 93.  2017-04-21 13:43:39 +0000     5355 bytes  visual/lib/themes/images/ui-icons_bbbbbb_256x240\</tspan>
 <tspan x="10" y="1786">.png</tspan>
-<tspan x="10" y="1802"> 94.  2017-04-21 13:42:36 +0000     5355 bytes  visual/lib/themes/images/ui-icons_c98000_256x240\</tspan>
+<tspan x="10" y="1802"> 94.  2017-04-21 13:43:39 +0000     5355 bytes  visual/lib/themes/images/ui-icons_c98000_256x240\</tspan>
 <tspan x="10" y="1818">.png</tspan>
-<tspan x="10" y="1834"> 95.  2017-04-21 13:42:36 +0000     4369 bytes  visual/lib/themes/images/ui-icons_cccccc_256x240\</tspan>
+<tspan x="10" y="1834"> 95.  2017-04-21 13:43:39 +0000     4369 bytes  visual/lib/themes/images/ui-icons_cccccc_256x240\</tspan>
 <tspan x="10" y="1850">.png</tspan>
-<tspan x="10" y="1866"> 96.  2017-04-21 13:42:36 +0000     4369 bytes  visual/lib/themes/images/ui-icons_cd0a0a_256x240\</tspan>
+<tspan x="10" y="1866"> 96.  2017-04-21 13:43:39 +0000     4369 bytes  visual/lib/themes/images/ui-icons_cd0a0a_256x240\</tspan>
 <tspan x="10" y="1882">.png</tspan>
-<tspan x="10" y="1898"> 97.  2017-04-21 13:42:36 +0000     4369 bytes  visual/lib/themes/images/ui-icons_f29a00_256x240\</tspan>
+<tspan x="10" y="1898"> 97.  2017-04-21 13:43:39 +0000     4369 bytes  visual/lib/themes/images/ui-icons_f29a00_256x240\</tspan>
 <tspan x="10" y="1914">.png</tspan>
-<tspan x="10" y="1930"> 98.  2017-04-21 13:42:36 +0000     1147 bytes  visual/lib/themes/jquery.ui.accordion.css</tspan>
-<tspan x="10" y="1946"> 99.  2017-04-21 13:42:36 +0000      302 bytes  visual/lib/themes/jquery.ui.all.css</tspan>
-<tspan x="10" y="1962">100.  2017-04-21 13:42:36 +0000     1161 bytes  visual/lib/themes/jquery.ui.autocomplete.css</tspan>
-<tspan x="10" y="1978">101.  2017-04-21 13:42:36 +0000      437 bytes  visual/lib/themes/jquery.ui.base.css</tspan>
-<tspan x="10" y="1994">102.  2017-04-21 13:42:36 +0000     2509 bytes  visual/lib/themes/jquery.ui.button.css</tspan>
-<tspan x="10" y="2010">103.  2017-04-21 13:42:36 +0000     1500 bytes  visual/lib/themes/jquery.ui.core.css</tspan>
-<tspan x="10" y="2026">104.  2017-04-21 13:42:36 +0000     4128 bytes  visual/lib/themes/jquery.ui.datepicker.css</tspan>
-<tspan x="10" y="2042">105.  2017-04-21 13:42:36 +0000     1379 bytes  visual/lib/themes/jquery.ui.dialog.css</tspan>
-<tspan x="10" y="2058">106.  2017-04-21 13:42:36 +0000      367 bytes  visual/lib/themes/jquery.ui.progressbar.css</tspan>
-<tspan x="10" y="2074">107.  2017-04-21 13:42:36 +0000     1191 bytes  visual/lib/themes/jquery.ui.resizable.css</tspan>
-<tspan x="10" y="2090">108.  2017-04-21 13:42:36 +0000      333 bytes  visual/lib/themes/jquery.ui.selectable.css</tspan>
-<tspan x="10" y="2106">109.  2017-04-21 13:42:36 +0000     1256 bytes  visual/lib/themes/jquery.ui.slider.css</tspan>
-<tspan x="10" y="2122">110.  2017-04-21 13:42:36 +0000     1401 bytes  visual/lib/themes/jquery.ui.tabs.css</tspan>
-<tspan x="10" y="2138">111.  2017-04-21 13:42:36 +0000    17280 bytes  visual/lib/themes/jquery.ui.theme.css</tspan>
-<tspan x="10" y="2154">112.  2017-04-21 13:42:36 +0000     9254 bytes  visual/lib/ui/jquery.ui.accordion.min.js</tspan>
-<tspan x="10" y="2170">113.  2017-04-21 13:42:36 +0000     4383 bytes  visual/lib/ui/jquery.ui.core.min.js</tspan>
-<tspan x="10" y="2186">114.  2017-04-21 13:42:36 +0000    18890 bytes  visual/lib/ui/jquery.ui.draggable.min.js</tspan>
-<tspan x="10" y="2202">115.  2017-04-21 13:42:36 +0000     2831 bytes  visual/lib/ui/jquery.ui.mouse.min.js</tspan>
-<tspan x="10" y="2218">116.  2017-04-21 13:42:36 +0000    10141 bytes  visual/lib/ui/jquery.ui.slider.min.js</tspan>
-<tspan x="10" y="2234">117.  2017-04-21 13:42:36 +0000     3318 bytes  visual/lib/ui/jquery.ui.widget.min.js</tspan>
-<tspan x="10" y="2250">118.  2017-04-21 13:42:36 +0000      588 bytes  visual/notsupported.html</tspan>
+<tspan x="10" y="1930"> 98.  2017-04-21 13:43:39 +0000     1147 bytes  visual/lib/themes/jquery.ui.accordion.css</tspan>
+<tspan x="10" y="1946"> 99.  2017-04-21 13:43:39 +0000      302 bytes  visual/lib/themes/jquery.ui.all.css</tspan>
+<tspan x="10" y="1962">100.  2017-04-21 13:43:39 +0000     1161 bytes  visual/lib/themes/jquery.ui.autocomplete.css</tspan>
+<tspan x="10" y="1978">101.  2017-04-21 13:43:39 +0000      437 bytes  visual/lib/themes/jquery.ui.base.css</tspan>
+<tspan x="10" y="1994">102.  2017-04-21 13:43:39 +0000     2509 bytes  visual/lib/themes/jquery.ui.button.css</tspan>
+<tspan x="10" y="2010">103.  2017-04-21 13:43:39 +0000     1500 bytes  visual/lib/themes/jquery.ui.core.css</tspan>
+<tspan x="10" y="2026">104.  2017-04-21 13:43:39 +0000     4128 bytes  visual/lib/themes/jquery.ui.datepicker.css</tspan>
+<tspan x="10" y="2042">105.  2017-04-21 13:43:39 +0000     1379 bytes  visual/lib/themes/jquery.ui.dialog.css</tspan>
+<tspan x="10" y="2058">106.  2017-04-21 13:43:39 +0000      367 bytes  visual/lib/themes/jquery.ui.progressbar.css</tspan>
+<tspan x="10" y="2074">107.  2017-04-21 13:43:39 +0000     1191 bytes  visual/lib/themes/jquery.ui.resizable.css</tspan>
+<tspan x="10" y="2090">108.  2017-04-21 13:43:39 +0000      333 bytes  visual/lib/themes/jquery.ui.selectable.css</tspan>
+<tspan x="10" y="2106">109.  2017-04-21 13:43:39 +0000     1256 bytes  visual/lib/themes/jquery.ui.slider.css</tspan>
+<tspan x="10" y="2122">110.  2017-04-21 13:43:39 +0000     1401 bytes  visual/lib/themes/jquery.ui.tabs.css</tspan>
+<tspan x="10" y="2138">111.  2017-04-21 13:43:39 +0000    17280 bytes  visual/lib/themes/jquery.ui.theme.css</tspan>
+<tspan x="10" y="2154">112.  2017-04-21 13:43:39 +0000     9254 bytes  visual/lib/ui/jquery.ui.accordion.min.js</tspan>
+<tspan x="10" y="2170">113.  2017-04-21 13:43:39 +0000     4383 bytes  visual/lib/ui/jquery.ui.core.min.js</tspan>
+<tspan x="10" y="2186">114.  2017-04-21 13:43:39 +0000    18890 bytes  visual/lib/ui/jquery.ui.draggable.min.js</tspan>
+<tspan x="10" y="2202">115.  2017-04-21 13:43:39 +0000     2831 bytes  visual/lib/ui/jquery.ui.mouse.min.js</tspan>
+<tspan x="10" y="2218">116.  2017-04-21 13:43:39 +0000    10141 bytes  visual/lib/ui/jquery.ui.slider.min.js</tspan>
+<tspan x="10" y="2234">117.  2017-04-21 13:43:39 +0000     3318 bytes  visual/lib/ui/jquery.ui.widget.min.js</tspan>
+<tspan x="10" y="2250">118.  2017-04-21 13:43:39 +0000      588 bytes  visual/notsupported.html</tspan>
 </text>
 </svg>
